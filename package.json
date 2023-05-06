@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "messaging-api-viber": "^0.7.11"
+    "messaging-api-viber": "^1.1.0"
   }
 }
